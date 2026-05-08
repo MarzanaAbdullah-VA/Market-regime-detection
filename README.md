@@ -66,6 +66,7 @@ The system plots:
 - Trend behavior across different market states
 
 ---
+![Plot](images/regimes_plot.png)
 
 
 ## Technologies Used
