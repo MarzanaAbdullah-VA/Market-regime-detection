@@ -79,4 +79,14 @@ The system plots:
 
 ---
 
-## Project Structure
+
+## Key Findings
+
+- Three distinct market regimes were identified using clustering.
+- Bear regimes exhibited the highest volatility and deepest drawdowns.
+- Bull regimes showed positive momentum and lower downside risk.
+- Recovery regimes displayed elevated volatility but improving returns.
+- Regime classification provided additional insight beyond simple price trends.
+
+
+
