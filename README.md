@@ -81,12 +81,14 @@ The system plots:
 
 
 ## Key Findings
+Three distinct market regimes were identified using K-Means clustering based on returns, volatility, momentum, and drawdown characteristics.
 
-- Three distinct market regimes were identified using clustering.
-- Bear regimes exhibited the highest volatility and deepest drawdowns.
-- Bull regimes showed positive momentum and lower downside risk.
-- Recovery regimes displayed elevated volatility but improving returns.
-- Regime classification provided additional insight beyond simple price trends.
+- Bull Regime (Regime 0) exhibited the strongest average returns (1.41%) and highest momentum (0.21), indicating favorable market conditions. Although volatility was elevated, drawdowns remained significantly lower than those observed during bearish periods.
+- Bear Regime (Regime 1) was characterized by negative average returns (-0.48%), negative momentum (-0.10), and the deepest drawdowns (-35.7%), reflecting sustained market weakness and increased downside risk.
+- Recovery Regime (Regime 2) demonstrated the lowest volatility (1.76%), modest positive returns, and positive momentum, suggesting transitional market conditions consistent with a recovery phase following periods of market stress.
+
+The analysis highlights how market environments can exhibit distinct risk and return profiles, providing insights that may support portfolio risk management, asset allocation decisions, and market monitoring.
+The clustering approach revealed meaningful differences in market behavior that are not immediately apparent from price trends alone, demonstrating the value of unsupervised machine learning for financial market analysis.
 
 
 
